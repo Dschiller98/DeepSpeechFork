@@ -1,3 +1,4 @@
+*.iso
 .ipynb_checkpoints
 *.pyc
 *.swp
